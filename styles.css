@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.ring-image img {
+  width: 400px; /* Ajusta el tamaño según sea necesario */
+  height: auto;
+  border-radius: 10px; /* Agrega bordes redondeados si deseas */
+}
